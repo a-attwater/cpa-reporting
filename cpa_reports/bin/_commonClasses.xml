@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+_commonClasses
+</name>
+</assembly>
+<members>
+<member name="M:_commonClasses.DealsReference.Deals.#ctor">
+	<remarks/>
+</member><member name="E:_commonClasses.DealsReference.Deals.RelocationsCompleted">
+	<remarks/>
+</member><member name="E:_commonClasses.DealsReference.Deals.HotDealsCompleted">
+	<remarks/>
+</member><member name="M:_commonClasses.DealsReference.Deals.Relocations(System.String)">
+	<remarks/>
+</member><member name="M:_commonClasses.DealsReference.Deals.RelocationsAsync(System.String)">
+	<remarks/>
+</member><member name="M:_commonClasses.DealsReference.Deals.RelocationsAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:_commonClasses.DealsReference.Deals.HotDeals(System.String)">
+	<remarks/>
+</member><member name="M:_commonClasses.DealsReference.Deals.HotDealsAsync(System.String)">
+	<remarks/>
+</member><member name="M:_commonClasses.DealsReference.Deals.HotDealsAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:_commonClasses.DealsReference.Deals.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:_commonClasses.DealsReference.Deals">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.CountryDeals.Country">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.CountryDeals.ProductDeals">
+	<remarks/>
+</member><member name="T:_commonClasses.DealsReference.CountryDeals">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.Country.Code">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.Country.Name">
+	<remarks/>
+</member><member name="T:_commonClasses.DealsReference.Country">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.Deal.ControlNo">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.Deal.FromLocations">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.Deal.Pickup">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.Deal.ToLocations">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.Deal.Return">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.Deal.RateName">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.Deal.RateDescription">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.Deal.AdditionalInfo">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.Deal.ConfigureUrl">
+	<remarks/>
+</member><member name="T:_commonClasses.DealsReference.Deal">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.VehicleProduct.Code">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.VehicleProduct.Name">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.VehicleProduct.OverviewUrl">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.VehicleProduct.Sequence">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.VehicleProduct.SequenceSpecified">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.VehicleProduct.ThumbnailImageUrl">
+	<remarks/>
+</member><member name="T:_commonClasses.DealsReference.VehicleProduct">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.ProductDeals.Vehicle">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.ProductDeals.Deals">
+	<remarks/>
+</member><member name="T:_commonClasses.DealsReference.ProductDeals">
+	<remarks/>
+</member><member name="T:_commonClasses.DealsReference.RelocationsCompletedEventHandler">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.RelocationsCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:_commonClasses.DealsReference.RelocationsCompletedEventArgs">
+	<remarks/>
+</member><member name="T:_commonClasses.DealsReference.HotDealsCompletedEventHandler">
+	<remarks/>
+</member><member name="P:_commonClasses.DealsReference.HotDealsCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:_commonClasses.DealsReference.HotDealsCompletedEventArgs">
+	<remarks/>
+</member><member name="M:_commonClasses.geoipReference.GeoIPService.#ctor">
+	<remarks/>
+</member><member name="E:_commonClasses.geoipReference.GeoIPService.GetGeoIPCompleted">
+	<remarks/>
+</member><member name="E:_commonClasses.geoipReference.GeoIPService.GetGeoIPContextCompleted">
+	<remarks/>
+</member><member name="M:_commonClasses.geoipReference.GeoIPService.GetGeoIP(System.String)">
+	<remarks/>
+</member><member name="M:_commonClasses.geoipReference.GeoIPService.GetGeoIPAsync(System.String)">
+	<remarks/>
+</member><member name="M:_commonClasses.geoipReference.GeoIPService.GetGeoIPAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:_commonClasses.geoipReference.GeoIPService.GetGeoIPContext">
+	<remarks/>
+</member><member name="M:_commonClasses.geoipReference.GeoIPService.GetGeoIPContextAsync">
+	<remarks/>
+</member><member name="M:_commonClasses.geoipReference.GeoIPService.GetGeoIPContextAsync(System.Object)">
+	<remarks/>
+</member><member name="M:_commonClasses.geoipReference.GeoIPService.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:_commonClasses.geoipReference.GeoIPService">
+	<remarks/>
+</member><member name="P:_commonClasses.geoipReference.GeoIP.ReturnCode">
+	<remarks/>
+</member><member name="P:_commonClasses.geoipReference.GeoIP.IP">
+	<remarks/>
+</member><member name="P:_commonClasses.geoipReference.GeoIP.ReturnCodeDetails">
+	<remarks/>
+</member><member name="P:_commonClasses.geoipReference.GeoIP.CountryName">
+	<remarks/>
+</member><member name="P:_commonClasses.geoipReference.GeoIP.CountryCode">
+	<remarks/>
+</member><member name="T:_commonClasses.geoipReference.GeoIP">
+	<remarks/>
+</member><member name="T:_commonClasses.geoipReference.GetGeoIPCompletedEventHandler">
+	<remarks/>
+</member><member name="P:_commonClasses.geoipReference.GetGeoIPCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:_commonClasses.geoipReference.GetGeoIPCompletedEventArgs">
+	<remarks/>
+</member><member name="T:_commonClasses.geoipReference.GetGeoIPContextCompletedEventHandler">
+	<remarks/>
+</member><member name="P:_commonClasses.geoipReference.GetGeoIPContextCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:_commonClasses.geoipReference.GetGeoIPContextCompletedEventArgs">
+	<remarks/>
+</member><member name="P:_commonClasses.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:_commonClasses.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:_commonClasses.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{7DD16332-211F-46A4-86CA-7F109E9ADD68}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>cpa_reports</RootNamespace>
+    <AssemblyName>cpa_reports</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>cpa_reports.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>cpa_reports.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit">
+      <HintPath>..\_commonClasses\bin\Debug\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Brettle.Web.NeatUpload, Version=1.3.3798.663, Culture=neutral, PublicKeyToken=c95290d92c5893c8">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_commonClasses\bin\Debug\Brettle.Web.NeatUpload.dll</HintPath>
+    </Reference>
+    <Reference Include="ClosedXML, Version=0.76.0.0, Culture=neutral, PublicKeyToken=fd1eb21b62ae805b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.4.1.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_commonClasses\bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_commonClasses\bin\Debug\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="MSCaptcha, Version=2.0.3733.36001, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_commonClasses\bin\Debug\MSCaptcha.dll</HintPath>
+    </Reference>
+    <Reference Include="PerceptiveMCAPI, Version=1.2.5.3, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_commonClasses\bin\Debug\PerceptiveMCAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="_commonClasses">
+      <HintPath>..\_commonClasses\bin\Debug\_commonClasses.dll</HintPath>
+    </Reference>
+    <Reference Include="_commonFiles">
+      <HintPath>..\_commonFiles\bin\_commonFiles.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\_commonFiles\include_css\colorbox.css">
+      <Link>include_css\colorbox.css</Link>
+    </Content>
+    <Content Include="404.aspx" />
+    <Content Include="500.aspx" />
+    <Content Include="admin\cms-pages-add.aspx" />
+    <Content Include="admin\cms-pages-edit.aspx" />
+    <Content Include="admin\cms-pages.aspx" />
+    <Content Include="admin\cms-users-add.aspx" />
+    <Content Include="admin\cms-users-edit.aspx" />
+    <Content Include="admin\cms-users.aspx" />
+    <Content Include="data\data-import.aspx" />
+    <Content Include="exceptions\exceptions-dates.aspx" />
+    <Content Include="exceptions\exceptions-brands.aspx" />
+    <Content Include="exceptions\exceptions-countries.aspx" />
+    <Content Include="data\exceptions-counts.aspx" />
+    <Content Include="exceptions\exceptions-currencies.aspx" />
+    <Content Include="exceptions\exceptions-duplicates.aspx" />
+    <Content Include="exceptions\exceptions-locations.aspx" />
+    <Content Include="data\exceptions-prices-add.aspx" />
+    <Content Include="data\exceptions-prices-list.aspx" />
+    <Content Include="data\exceptions-prices-update.aspx" />
+    <Content Include="exceptions\exceptions.aspx" />
+    <Content Include="exceptions\exceptions-websites.aspx" />
+    <Content Include="exceptions\exceptions-vehicles.aspx" />
+    <Content Include="controls\get.aspx" />
+    <Content Include="controls\set.aspx" />
+    <Content Include="controls\setCookie.aspx" />
+    <Content Include="default.aspx" />
+    <Content Include="error.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="graphics\btn-overlay.png" />
+    <Content Include="graphics\btns.png" />
+    <Content Include="graphics\callout-bottom.gif" />
+    <Content Include="graphics\callout-top.gif" />
+    <Content Include="graphics\callout.gif" />
+    <Content Include="graphics\content-bg.png" />
+    <Content Include="graphics\icon-add-white.png" />
+    <Content Include="graphics\icon-add.png" />
+    <Content Include="graphics\icon-cross.png" />
+    <Content Include="graphics\icon-delete.png" />
+    <Content Include="graphics\icon-duplicate.png" />
+    <Content Include="graphics\icon-edit.png" />
+    <Content Include="graphics\icon-info.png" />
+    <Content Include="graphics\icon-negative.png" />
+    <Content Include="graphics\icon-notes.png" />
+    <Content Include="graphics\icon-order.png" />
+    <Content Include="graphics\icon-preview-white.png" />
+    <Content Include="graphics\icon-preview.png" />
+    <Content Include="graphics\icon-stats.png" />
+    <Content Include="graphics\icon-tick.png" />
+    <Content Include="graphics\icon-translate.png" />
+    <Content Include="graphics\loading.GIF" />
+    <Content Include="graphics\menu-arrow.png" />
+    <Content Include="graphics\side-content-bg.png" />
+    <Content Include="graphics\sidebar-heading-bg.png" />
+    <Content Include="graphics\sidebar-heading-bottom.png" />
+    <Content Include="graphics\sidebar-heading-top.png" />
+    <Content Include="graphics\sidebar-sub-bg.png" />
+    <Content Include="graphics\sidebar-sub-bottom.png" />
+    <Content Include="graphics\sidebar-sub-sub-bg.png" />
+    <Content Include="graphics\sidebar-sub-sub-bottom.png" />
+    <Content Include="graphics\sidebar-sub-top.png" />
+    <Content Include="graphics\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="graphics\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="graphics\ui-bg_glass_55_21779E_1x400.png" />
+    <Content Include="graphics\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="graphics\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="graphics\ui-bg_glass_75_F6F6F6_1x400.png" />
+    <Content Include="graphics\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="graphics\ui-bg_highlight-soft_75_F6F6F6_1x100.png" />
+    <Content Include="graphics\ui-icons_21779E_256x240.png" />
+    <Content Include="graphics\ui-icons_454545_256x240.png" />
+    <Content Include="graphics\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="graphics\ui-icons_ffffff_256x240.png" />
+    <Content Include="include_css\forms.css" />
+    <Content Include="include_css\jquery-ui.css" />
+    <Content Include="include_css\main.css" />
+    <Content Include="include_css\responsive-tables.css" />
+    <Content Include="include_css\tables.css" />
+    <Content Include="include_js\angular.min.js" />
+    <Content Include="include_js\Chart.min.js" />
+    <Content Include="include_js\common.js" />
+    <Content Include="include_js\jquery-2.1.3.min.js" />
+    <Content Include="include_js\jquery.colorbox-min.js" />
+    <Content Include="include_js\jquery.overscroll.min.js" />
+    <Content Include="include_js\responsive-tables.js" />
+    <Content Include="include_js\tc-angular-chartjs.js" />
+    <Content Include="login.aspx" />
+    <Content Include="reports\comparison-over-time.aspx" />
+    <Content Include="reports\comparison-price-change.aspx" />
+    <Content Include="reports\comparison-snapshot.aspx" />
+    <Content Include="reports\comparison.aspx" />
+    <Content Include="reports\comparison-brands.aspx" />
+    <Content Include="reports\comparison-over-time-and-data-sets.aspx" />
+    <Content Include="reports\snapshot-test.aspx" />
+    <Content Include="reports\test.aspx" />
+    <Content Include="tasks\executeTasks_AcceptData.vbs" />
+    <Content Include="tasks\accept-data.aspx" />
+    <Content Include="tasks\executeTasks_ImportExchangeRate.vbs" />
+    <Content Include="tasks\import-exchange-rates.aspx" />
+    <Content Include="userControls\userMenu.ascx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="404.aspx.designer.vb">
+      <DependentUpon>404.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="404.aspx.vb">
+      <DependentUpon>404.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="500.aspx.designer.vb">
+      <DependentUpon>500.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="500.aspx.vb">
+      <DependentUpon>500.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\cms-pages-add.aspx.designer.vb">
+      <DependentUpon>cms-pages-add.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\cms-pages-add.aspx.vb">
+      <DependentUpon>cms-pages-add.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="admin\cms-pages-edit.aspx.designer.vb">
+      <DependentUpon>cms-pages-edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\cms-pages-edit.aspx.vb">
+      <DependentUpon>cms-pages-edit.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="admin\cms-pages.aspx.designer.vb">
+      <DependentUpon>cms-pages.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\cms-pages.aspx.vb">
+      <DependentUpon>cms-pages.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="admin\cms-users-add.aspx.designer.vb">
+      <DependentUpon>cms-users-add.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\cms-users-add.aspx.vb">
+      <DependentUpon>cms-users-add.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="admin\cms-users-edit.aspx.designer.vb">
+      <DependentUpon>cms-users-edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\cms-users-edit.aspx.vb">
+      <DependentUpon>cms-users-edit.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="admin\cms-users.aspx.designer.vb">
+      <DependentUpon>cms-users.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\cms-users.aspx.vb">
+      <DependentUpon>cms-users.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="classFiles\GridViewExportUtil.vb" />
+    <Compile Include="data\data-import.aspx.designer.vb">
+      <DependentUpon>data-import.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="data\data-import.aspx.vb">
+      <DependentUpon>data-import.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="exceptions\exceptions-dates.aspx.designer.vb">
+      <DependentUpon>exceptions-dates.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="exceptions\exceptions-dates.aspx.vb">
+      <DependentUpon>exceptions-dates.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="exceptions\exceptions-brands.aspx.designer.vb">
+      <DependentUpon>exceptions-brands.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="exceptions\exceptions-brands.aspx.vb">
+      <DependentUpon>exceptions-brands.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="exceptions\exceptions-countries.aspx.designer.vb">
+      <DependentUpon>exceptions-countries.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="exceptions\exceptions-countries.aspx.vb">
+      <DependentUpon>exceptions-countries.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="data\exceptions-counts.aspx.designer.vb">
+      <DependentUpon>exceptions-counts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="data\exceptions-counts.aspx.vb">
+      <DependentUpon>exceptions-counts.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="exceptions\exceptions-currencies.aspx.designer.vb">
+      <DependentUpon>exceptions-currencies.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="exceptions\exceptions-currencies.aspx.vb">
+      <DependentUpon>exceptions-currencies.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="exceptions\exceptions-duplicates.aspx.designer.vb">
+      <DependentUpon>exceptions-duplicates.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="exceptions\exceptions-duplicates.aspx.vb">
+      <DependentUpon>exceptions-duplicates.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="exceptions\exceptions-locations.aspx.designer.vb">
+      <DependentUpon>exceptions-locations.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="exceptions\exceptions-locations.aspx.vb">
+      <DependentUpon>exceptions-locations.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="data\exceptions-prices-add.aspx.designer.vb">
+      <DependentUpon>exceptions-prices-add.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="data\exceptions-prices-add.aspx.vb">
+      <DependentUpon>exceptions-prices-add.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="data\exceptions-prices-list.aspx.designer.vb">
+      <DependentUpon>exceptions-prices-list.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="data\exceptions-prices-list.aspx.vb">
+      <DependentUpon>exceptions-prices-list.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="data\exceptions-prices-update.aspx.designer.vb">
+      <DependentUpon>exceptions-prices-update.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="data\exceptions-prices-update.aspx.vb">
+      <DependentUpon>exceptions-prices-update.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="exceptions\exceptions.aspx.designer.vb">
+      <DependentUpon>exceptions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="exceptions\exceptions.aspx.vb">
+      <DependentUpon>exceptions.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="exceptions\exceptions-websites.aspx.designer.vb">
+      <DependentUpon>exceptions-websites.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="exceptions\exceptions-websites.aspx.vb">
+      <DependentUpon>exceptions-websites.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="exceptions\exceptions-vehicles.aspx.designer.vb">
+      <DependentUpon>exceptions-vehicles.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="exceptions\exceptions-vehicles.aspx.vb">
+      <DependentUpon>exceptions-vehicles.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="classFiles\admin.vb" />
+    <Compile Include="classFiles\data.vb" />
+    <Compile Include="controls\get.aspx.vb">
+      <DependentUpon>get.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="controls\set.aspx.vb">
+      <DependentUpon>set.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="controls\setCookie.aspx.vb">
+      <DependentUpon>setCookie.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="default.aspx.designer.vb">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="default.aspx.vb">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="error.aspx.designer.vb">
+      <DependentUpon>error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="error.aspx.vb">
+      <DependentUpon>error.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Global.asax.vb">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="login.aspx.designer.vb">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="login.aspx.vb">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWebExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.Web.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Report.Master.designer.vb">
+      <DependentUpon>Report.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Report.Master.vb">
+      <DependentUpon>Report.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="reports\comparison-over-time.aspx.designer.vb">
+      <DependentUpon>comparison-over-time.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="reports\comparison-over-time.aspx.vb">
+      <DependentUpon>comparison-over-time.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="reports\comparison-price-change.aspx.designer.vb">
+      <DependentUpon>comparison-price-change.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="reports\comparison-price-change.aspx.vb">
+      <DependentUpon>comparison-price-change.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="reports\comparison-snapshot.aspx.designer.vb">
+      <DependentUpon>comparison-snapshot.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="reports\comparison-snapshot.aspx.vb">
+      <DependentUpon>comparison-snapshot.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="reports\comparison.aspx.designer.vb">
+      <DependentUpon>comparison.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="reports\comparison.aspx.vb">
+      <DependentUpon>comparison.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="reports\comparison-brands.aspx.designer.vb">
+      <DependentUpon>comparison-brands.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="reports\comparison-brands.aspx.vb">
+      <DependentUpon>comparison-brands.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="reports\comparison-over-time-and-data-sets.aspx.designer.vb">
+      <DependentUpon>comparison-over-time-and-data-sets.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="reports\comparison-over-time-and-data-sets.aspx.vb">
+      <DependentUpon>comparison-over-time-and-data-sets.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="reports\snapshot-test.aspx.designer.vb">
+      <DependentUpon>snapshot-test.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="reports\snapshot-test.aspx.vb">
+      <DependentUpon>snapshot-test.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="reports\test.aspx.designer.vb">
+      <DependentUpon>test.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="reports\test.aspx.vb">
+      <DependentUpon>test.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="tasks\accept-data.aspx.designer.vb">
+      <DependentUpon>accept-data.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="tasks\accept-data.aspx.vb">
+      <DependentUpon>accept-data.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="tasks\import-exchange-rates.aspx.designer.vb">
+      <DependentUpon>import-exchange-rates.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="tasks\import-exchange-rates.aspx.vb">
+      <DependentUpon>import-exchange-rates.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="userControls\userMenu.ascx.designer.vb">
+      <DependentUpon>userMenu.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="userControls\userMenu.ascx.vb">
+      <DependentUpon>userMenu.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\PublishProfiles\amhcpa - FTP.pubxml" />
+    <None Include="My Project\PublishProfiles\amhcpa - Web Deploy.pubxml" />
+    <None Include="My Project\PublishProfiles\cpa DEV.pubxml" />
+    <None Include="My Project\PublishProfiles\cpaLIVE.pubxml" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Content Include="Report.Master" />
+    <None Include="Web.Asure.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.AWS.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Asure|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>cpa_reports.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'AWS|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>cpa_reports.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:64711/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

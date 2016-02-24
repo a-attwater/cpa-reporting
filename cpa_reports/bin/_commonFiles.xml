@@ -1,0 +1,4513 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+_commonFiles
+</name>
+</assembly>
+<members>
+<member name="P:_commonFiles.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:_commonFiles.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:_commonFiles.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:_commonFiles.specials_home_slides.specialsSlides">
+	<summary>
+specialsSlides control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.pageForm">
+	<summary>
+pageForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.ddlBusinessCategory">
+	<summary>
+ddlBusinessCategory control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.ddlBusinessSubCategory">
+	<summary>
+ddlBusinessSubCategory control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.strBusinessName">
+	<summary>
+strBusinessName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.CustomValidator1">
+	<summary>
+CustomValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.strBusinessPhone">
+	<summary>
+strBusinessPhone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.CustomValidator3">
+	<summary>
+CustomValidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.strBusinessEmail">
+	<summary>
+strBusinessEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.CustomValidator4">
+	<summary>
+CustomValidator4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.RegExpValEmail">
+	<summary>
+RegExpValEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.strBusinessWebsite">
+	<summary>
+strBusinessWebsite control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.strBusinessDescription">
+	<summary>
+strBusinessDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.strBusinessFax">
+	<summary>
+strBusinessFax control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.street_number">
+	<summary>
+street_number control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.route">
+	<summary>
+route control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.locality">
+	<summary>
+locality control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.administrative_area_level_1">
+	<summary>
+administrative_area_level_1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.postal_code">
+	<summary>
+postal_code control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.country">
+	<summary>
+country control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.lat">
+	<summary>
+lat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.lng">
+	<summary>
+lng control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.ccJoin">
+	<summary>
+ccJoin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.txtCheck">
+	<summary>
+txtCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.lblCap">
+	<summary>
+lblCap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_submit.btn_submit1">
+	<summary>
+btn_submit1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vspecs_tables.lblVehSpecs">
+	<summary>
+lblVehSpecs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.pageForm">
+	<summary>
+pageForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.hasErrors">
+	<summary>
+hasErrors control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.strName">
+	<summary>
+strName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.ReqName">
+	<summary>
+ReqName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.strEmail">
+	<summary>
+strEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.ValEmail">
+	<summary>
+ValEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.strAddress">
+	<summary>
+strAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.strCity">
+	<summary>
+strCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.strState">
+	<summary>
+strState control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.strPost">
+	<summary>
+strPost control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.strCountry">
+	<summary>
+strCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.strPhone">
+	<summary>
+strPhone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.strEnquiry">
+	<summary>
+strEnquiry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.ccJoin">
+	<summary>
+ccJoin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.txtCheck">
+	<summary>
+txtCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.lblCap">
+	<summary>
+lblCap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.lang">
+	<summary>
+lang control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.submit_btn">
+	<summary>
+submit_btn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_nl.valsummary">
+	<summary>
+valsummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.pageForm">
+	<summary>
+pageForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.hasErrors">
+	<summary>
+hasErrors control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.strName">
+	<summary>
+strName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.ReqName">
+	<summary>
+ReqName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.strEmail">
+	<summary>
+strEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.ValEmail">
+	<summary>
+ValEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.strAddress">
+	<summary>
+strAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.strCity">
+	<summary>
+strCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.strState">
+	<summary>
+strState control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.strPost">
+	<summary>
+strPost control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.strCountry">
+	<summary>
+strCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.strPhone">
+	<summary>
+strPhone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.strEnquiry">
+	<summary>
+strEnquiry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.ccJoin">
+	<summary>
+ccJoin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.txtCheck">
+	<summary>
+txtCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.lblCap">
+	<summary>
+lblCap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.lang">
+	<summary>
+lang control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.submit_btn">
+	<summary>
+submit_btn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form.valsummary">
+	<summary>
+valsummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.instagram_feed.outputHMTL">
+	<summary>
+outputHMTL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.submit_site_form.pageForm">
+	<summary>
+pageForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.submit_site_form.strName">
+	<summary>
+strName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.submit_site_form.ReqName">
+	<summary>
+ReqName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.submit_site_form.strEmail">
+	<summary>
+strEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.submit_site_form.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.submit_site_form.ValEmail">
+	<summary>
+ValEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.submit_site_form.strWebTitle">
+	<summary>
+strWebTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.submit_site_form.strWebURL">
+	<summary>
+strWebURL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.submit_site_form.strWebDesc">
+	<summary>
+strWebDesc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.submit_site_form.strWebComments">
+	<summary>
+strWebComments control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.submit_site_form.ccJoin">
+	<summary>
+ccJoin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.submit_site_form.txtCheck">
+	<summary>
+txtCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.submit_site_form.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.submit_site_form.lblCap">
+	<summary>
+lblCap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.submit_site_form.submit_btn">
+	<summary>
+submit_btn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.submit_site_form.valsummary">
+	<summary>
+valsummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.footer_apollo_family.footerHolder">
+	<summary>
+footerHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.enews_unsubscribe_form.mail_form">
+	<summary>
+mail_form control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.enews_unsubscribe_form.signupError">
+	<summary>
+signupError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.enews_unsubscribe_form.outputError">
+	<summary>
+outputError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.enews_unsubscribe_form.pageForm">
+	<summary>
+pageForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.enews_unsubscribe_form.EMAIL">
+	<summary>
+EMAIL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.enews_unsubscribe_form.ccJoin">
+	<summary>
+ccJoin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.enews_unsubscribe_form.txtCheck">
+	<summary>
+txtCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.enews_unsubscribe_form.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.enews_unsubscribe_form.lblCap">
+	<summary>
+lblCap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.enews_unsubscribe_form.btn_submit">
+	<summary>
+btn_submit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.enews_unsubscribe_form.mail_response">
+	<summary>
+mail_response control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.submitError">
+	<summary>
+submitError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.pageForm">
+	<summary>
+pageForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.TestimonialImagesState">
+	<summary>
+TestimonialImagesState control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.ImgUpload1">
+	<summary>
+ImgUpload1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.specialOfferORNOT">
+	<summary>
+specialOfferORNOT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.offerTypelisting">
+	<summary>
+offerTypelisting control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.percentageValue">
+	<summary>
+percentageValue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.percentageItem">
+	<summary>
+percentageItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.percentageDesc">
+	<summary>
+percentageDesc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.percentageDB">
+	<summary>
+percentageDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.dollarValue1">
+	<summary>
+dollarValue1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.dollarValue2">
+	<summary>
+dollarValue2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.dollarItem">
+	<summary>
+dollarItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.dollarDesc">
+	<summary>
+dollarDesc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.dollarDB">
+	<summary>
+dollarDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.freeitemValue">
+	<summary>
+freeitemValue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.freeitemItem">
+	<summary>
+freeitemItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.freeitemDesc">
+	<summary>
+freeitemDesc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.otherDiscountDesc">
+	<summary>
+otherDiscountDesc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.expDateValue">
+	<summary>
+expDateValue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.reciprocalURL">
+	<summary>
+reciprocalURL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.URLcheck">
+	<summary>
+URLcheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.btn_submit1">
+	<summary>
+btn_submit1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.UnloadConfirmer1">
+	<summary>
+UnloadConfirmer1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.premium_uc.inlineProgressBar">
+	<summary>
+inlineProgressBar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_home.feedbackList">
+	<summary>
+feedbackList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_score.intPercentage">
+	<summary>
+intPercentage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_vehicle.feedbackControl">
+	<summary>
+feedbackControl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_vehicle.feedbackList">
+	<summary>
+feedbackList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.news_list.NewsList">
+	<summary>
+NewsList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_alter.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_alter.pageForm">
+	<summary>
+pageForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_alter.strBusinessName">
+	<summary>
+strBusinessName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_alter.CustomValidator1">
+	<summary>
+CustomValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_alter.strBusinessPhone">
+	<summary>
+strBusinessPhone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_alter.CustomValidator2">
+	<summary>
+CustomValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_alter.strBusinessEmail">
+	<summary>
+strBusinessEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_alter.CustomValidator3">
+	<summary>
+CustomValidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_alter.RegExpValEmail">
+	<summary>
+RegExpValEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_alter.textfield">
+	<summary>
+textfield control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_alter.btn_submit1">
+	<summary>
+btn_submit1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_winners.feedbackList">
+	<summary>
+feedbackList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_winners.pagination">
+	<summary>
+pagination control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_winners.lnkPrev">
+	<summary>
+lnkPrev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_winners.pageLinks">
+	<summary>
+pageLinks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_winners.lnkNext">
+	<summary>
+lnkNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.used_vehicle_details.lblUsedVehSpecs">
+	<summary>
+lblUsedVehSpecs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.gallery_images_hippie.lblPhotos">
+	<summary>
+lblPhotos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.specials_book.specialsContent">
+	<summary>
+specialsContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.specials_book.specialTitle">
+	<summary>
+specialTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.specials_book.specialsTerms">
+	<summary>
+specialsTerms control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.specials_view.expiredMessage">
+	<summary>
+expiredMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.specials_view.specialsContent">
+	<summary>
+specialsContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.specials_view.specialsView">
+	<summary>
+specialsView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.specials_view.specialsTerms">
+	<summary>
+specialsTerms control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.spin_to_win_winning_results.resultsPlaceholder">
+	<summary>
+resultsPlaceholder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_location_request.feedbackList">
+	<summary>
+feedbackList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_vehicle_request.feedbackList">
+	<summary>
+feedbackList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_view.lblSubmitted">
+	<summary>
+lblSubmitted control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_view.lblFirstName">
+	<summary>
+lblFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_view.compStory">
+	<summary>
+compStory control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_view.lblStory">
+	<summary>
+lblStory control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_view.compImages">
+	<summary>
+compImages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_view.lblImages">
+	<summary>
+lblImages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_view.compVideo">
+	<summary>
+compVideo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_view.lblVideo">
+	<summary>
+lblVideo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.privacy_policy.lblPolicy">
+	<summary>
+lblPolicy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_intranet.feedbackList">
+	<summary>
+feedbackList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.submittedNotice">
+	<summary>
+submittedNotice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.submitError">
+	<summary>
+submitError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.pageForm">
+	<summary>
+pageForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.strName">
+	<summary>
+strName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.strCountry">
+	<summary>
+strCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.companyRating">
+	<summary>
+companyRating control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.companyComment">
+	<summary>
+companyComment control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.vehicleRating">
+	<summary>
+vehicleRating control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.vehicleComment">
+	<summary>
+vehicleComment control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.cleanlinessRating">
+	<summary>
+cleanlinessRating control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.strLocation">
+	<summary>
+strLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.strLocationLat">
+	<summary>
+strLocationLat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.strLocationLng">
+	<summary>
+strLocationLng control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.locationRating">
+	<summary>
+locationRating control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.locationComment">
+	<summary>
+locationComment control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.chkPrivate">
+	<summary>
+chkPrivate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.chkEnews">
+	<summary>
+chkEnews control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_form.btn_feedbackSubmit">
+	<summary>
+btn_feedbackSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.location_btns">
+	<summary>
+location_btns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.adelaide">
+	<summary>
+adelaide control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.alice_springs">
+	<summary>
+alice_springs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.brisbane">
+	<summary>
+brisbane control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.broome">
+	<summary>
+broome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.darwin">
+	<summary>
+darwin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.cairns">
+	<summary>
+cairns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.hobart">
+	<summary>
+hobart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.melbourne">
+	<summary>
+melbourne control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.perth">
+	<summary>
+perth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.sydney">
+	<summary>
+sydney control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.auckland">
+	<summary>
+auckland control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.christchurch">
+	<summary>
+christchurch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.denver">
+	<summary>
+denver control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.las_vegas">
+	<summary>
+las_vegas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.los_angeles">
+	<summary>
+los_angeles control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.san_francisco">
+	<summary>
+san_francisco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.vroom_reloc_list.RelocList">
+	<summary>
+RelocList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:_commonFiles.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:_commonFiles.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:_commonFiles.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:_commonFiles.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:_commonFiles.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:_commonFiles.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:_commonFiles.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:_commonFiles.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:_commonFiles.press_list.lblPress">
+	<summary>
+lblPress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.booking_form.partnerBookingForm">
+	<summary>
+partnerBookingForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.gen_booking_form.partnerBookingForm">
+	<summary>
+partnerBookingForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_location.feedbackControl">
+	<summary>
+feedbackControl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_location.feedbackList">
+	<summary>
+feedbackList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.location_btns">
+	<summary>
+location_btns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.adelaide">
+	<summary>
+adelaide control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.alice_springs">
+	<summary>
+alice_springs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.brisbane">
+	<summary>
+brisbane control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.broome">
+	<summary>
+broome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.darwin">
+	<summary>
+darwin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.cairns">
+	<summary>
+cairns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.hobart">
+	<summary>
+hobart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.melbourne">
+	<summary>
+melbourne control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.perth">
+	<summary>
+perth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.sydney">
+	<summary>
+sydney control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.auckland">
+	<summary>
+auckland control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.christchurch">
+	<summary>
+christchurch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.denver">
+	<summary>
+denver control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.las_vegas">
+	<summary>
+las_vegas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.los_angeles">
+	<summary>
+los_angeles control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.san_francisco">
+	<summary>
+san_francisco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hippie_reloc_list.RelocList">
+	<summary>
+RelocList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.location_btns">
+	<summary>
+location_btns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.adelaide">
+	<summary>
+adelaide control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.alice_springs">
+	<summary>
+alice_springs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.brisbane">
+	<summary>
+brisbane control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.broome">
+	<summary>
+broome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.darwin">
+	<summary>
+darwin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.cairns">
+	<summary>
+cairns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.hobart">
+	<summary>
+hobart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.melbourne">
+	<summary>
+melbourne control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.perth">
+	<summary>
+perth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.sydney">
+	<summary>
+sydney control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.auckland">
+	<summary>
+auckland control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.christchurch">
+	<summary>
+christchurch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.denver">
+	<summary>
+denver control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.las_vegas">
+	<summary>
+las_vegas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.los_angeles">
+	<summary>
+los_angeles control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.san_francisco">
+	<summary>
+san_francisco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.star_reloc_list.RelocList">
+	<summary>
+RelocList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.branch_details.branchDetailsHolder">
+	<summary>
+branchDetailsHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.branch_details.branchHoursHolder">
+	<summary>
+branchHoursHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.pageForm">
+	<summary>
+pageForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.hasErrors">
+	<summary>
+hasErrors control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.strName">
+	<summary>
+strName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.ReqName">
+	<summary>
+ReqName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.strEmail">
+	<summary>
+strEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.ValEmail">
+	<summary>
+ValEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.strAddress">
+	<summary>
+strAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.strCity">
+	<summary>
+strCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.strState">
+	<summary>
+strState control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.strPost">
+	<summary>
+strPost control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.strCountry">
+	<summary>
+strCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.strPhone">
+	<summary>
+strPhone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.strEnquiry">
+	<summary>
+strEnquiry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.ccJoin">
+	<summary>
+ccJoin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.txtCheck">
+	<summary>
+txtCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.lblCap">
+	<summary>
+lblCap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.lang">
+	<summary>
+lang control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.submit_btn">
+	<summary>
+submit_btn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_fr.valsummary">
+	<summary>
+valsummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_list.feedbackList">
+	<summary>
+feedbackList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_list.pagination">
+	<summary>
+pagination control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_list.lnkPrev">
+	<summary>
+lnkPrev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_list.pageLinks">
+	<summary>
+pageLinks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_list.lnkNext">
+	<summary>
+lnkNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_list.ddlGuestCountry">
+	<summary>
+ddlGuestCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_list.ddlVehicle">
+	<summary>
+ddlVehicle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_list.feedbackMonthlyWinner">
+	<summary>
+feedbackMonthlyWinner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.feedback_list.feedbackWinner">
+	<summary>
+feedbackWinner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.pageForm">
+	<summary>
+pageForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.strClientName">
+	<summary>
+strClientName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.CustomValidator1">
+	<summary>
+CustomValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.strClientEmail">
+	<summary>
+strClientEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.CustomValidator2">
+	<summary>
+CustomValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.RegExpValEmail">
+	<summary>
+RegExpValEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.strClientReservNo">
+	<summary>
+strClientReservNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.strCreate">
+	<summary>
+strCreate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.strClientContact">
+	<summary>
+strClientContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.strResident">
+	<summary>
+strResident control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.TestimonialState">
+	<summary>
+TestimonialState control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.strTestiTitle">
+	<summary>
+strTestiTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.strTestiMedia">
+	<summary>
+strTestiMedia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.strTestiDesc">
+	<summary>
+strTestiDesc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.TestimonialImagesState">
+	<summary>
+TestimonialImagesState control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.ImgUpload1">
+	<summary>
+ImgUpload1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.ImgDesc1">
+	<summary>
+ImgDesc1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.ImgName1">
+	<summary>
+ImgName1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.ImgUpload2">
+	<summary>
+ImgUpload2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.ImgDesc2">
+	<summary>
+ImgDesc2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.ImgName2">
+	<summary>
+ImgName2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.ImgUpload3">
+	<summary>
+ImgUpload3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.ImgDesc3">
+	<summary>
+ImgDesc3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.ImgName3">
+	<summary>
+ImgName3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.ImgUpload4">
+	<summary>
+ImgUpload4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.ImgDesc4">
+	<summary>
+ImgDesc4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.ImgName4">
+	<summary>
+ImgName4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.ImgUpload5">
+	<summary>
+ImgUpload5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.ImgDesc5">
+	<summary>
+ImgDesc5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.ImgName5">
+	<summary>
+ImgName5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.TestimonialVideosState">
+	<summary>
+TestimonialVideosState control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.txtVideoURL">
+	<summary>
+txtVideoURL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.txtVideoTitle">
+	<summary>
+txtVideoTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.txtVideoDesc">
+	<summary>
+txtVideoDesc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.ccJoin">
+	<summary>
+ccJoin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.txtCheck">
+	<summary>
+txtCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.lblCap">
+	<summary>
+lblCap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.btn_submit">
+	<summary>
+btn_submit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.UnloadConfirmer1">
+	<summary>
+UnloadConfirmer1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_submit.inlineProgressBar">
+	<summary>
+inlineProgressBar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.googleCode_head.lblGoogleCodeHead">
+	<summary>
+lblGoogleCodeHead control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.daily_rate_vehicles.outputHTML">
+	<summary>
+outputHTML control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.location_btns">
+	<summary>
+location_btns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.adelaide">
+	<summary>
+adelaide control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.alice_springs">
+	<summary>
+alice_springs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.brisbane">
+	<summary>
+brisbane control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.broome">
+	<summary>
+broome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.darwin">
+	<summary>
+darwin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.cairns">
+	<summary>
+cairns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.hobart">
+	<summary>
+hobart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.melbourne">
+	<summary>
+melbourne control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.perth">
+	<summary>
+perth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.sydney">
+	<summary>
+sydney control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.auckland">
+	<summary>
+auckland control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.christchurch">
+	<summary>
+christchurch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.denver">
+	<summary>
+denver control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.las_vegas">
+	<summary>
+las_vegas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.los_angeles">
+	<summary>
+los_angeles control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.san_francisco">
+	<summary>
+san_francisco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.tourizm_reloc_list.RelocList">
+	<summary>
+RelocList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.location_btns">
+	<summary>
+location_btns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.adelaide">
+	<summary>
+adelaide control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.alice_springs">
+	<summary>
+alice_springs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.brisbane">
+	<summary>
+brisbane control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.broome">
+	<summary>
+broome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.darwin">
+	<summary>
+darwin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.cairns">
+	<summary>
+cairns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.hobart">
+	<summary>
+hobart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.melbourne">
+	<summary>
+melbourne control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.perth">
+	<summary>
+perth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.sydney">
+	<summary>
+sydney control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.auckland">
+	<summary>
+auckland control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.christchurch">
+	<summary>
+christchurch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.denver">
+	<summary>
+denver control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.las_vegas">
+	<summary>
+las_vegas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.los_angeles">
+	<summary>
+los_angeles control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.san_francisco">
+	<summary>
+san_francisco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.cheapa_reloc_list.RelocList">
+	<summary>
+RelocList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.googleCode_end.lblGoogleCodeEnd">
+	<summary>
+lblGoogleCodeEnd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.location_btns">
+	<summary>
+location_btns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.adelaide">
+	<summary>
+adelaide control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.alice_springs">
+	<summary>
+alice_springs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.brisbane">
+	<summary>
+brisbane control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.broome">
+	<summary>
+broome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.darwin">
+	<summary>
+darwin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.cairns">
+	<summary>
+cairns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.hobart">
+	<summary>
+hobart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.melbourne">
+	<summary>
+melbourne control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.perth">
+	<summary>
+perth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.sydney">
+	<summary>
+sydney control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.auckland">
+	<summary>
+auckland control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.christchurch">
+	<summary>
+christchurch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.denver">
+	<summary>
+denver control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.las_vegas">
+	<summary>
+las_vegas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.los_angeles">
+	<summary>
+los_angeles control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.san_francisco">
+	<summary>
+san_francisco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_hotdeals_list.DealsList">
+	<summary>
+DealsList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.branchPDFs.branchPDFform">
+	<summary>
+branchPDFform control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.branchPDFs.branchPDFLink">
+	<summary>
+branchPDFLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travel_info.anchors">
+	<summary>
+anchors control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travel_info.list">
+	<summary>
+list control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.travelinformation_top_five.list">
+	<summary>
+list control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.used_vehicle_list.countryDDL">
+	<summary>
+countryDDL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.used_vehicle_list.ddlCountry">
+	<summary>
+ddlCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.used_vehicle_list.chkCondition">
+	<summary>
+chkCondition control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.used_vehicle_list.chkVehicleType">
+	<summary>
+chkVehicleType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.used_vehicle_list.txtPriceFrom">
+	<summary>
+txtPriceFrom control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.used_vehicle_list.txtPriceTo">
+	<summary>
+txtPriceTo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.used_vehicle_list.submit">
+	<summary>
+submit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.used_vehicle_list.usedVehiclesList">
+	<summary>
+usedVehiclesList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.location_btns">
+	<summary>
+location_btns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.adelaide">
+	<summary>
+adelaide control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.alice_springs">
+	<summary>
+alice_springs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.brisbane">
+	<summary>
+brisbane control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.broome">
+	<summary>
+broome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.darwin">
+	<summary>
+darwin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.cairns">
+	<summary>
+cairns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.hobart">
+	<summary>
+hobart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.melbourne">
+	<summary>
+melbourne control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.perth">
+	<summary>
+perth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.sydney">
+	<summary>
+sydney control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.auckland">
+	<summary>
+auckland control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.christchurch">
+	<summary>
+christchurch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.denver">
+	<summary>
+denver control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.las_vegas">
+	<summary>
+las_vegas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.los_angeles">
+	<summary>
+los_angeles control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.san_francisco">
+	<summary>
+san_francisco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.apollo_reloc_list.RelocList">
+	<summary>
+RelocList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.location_btns">
+	<summary>
+location_btns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.adelaide">
+	<summary>
+adelaide control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.alice_springs">
+	<summary>
+alice_springs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.brisbane">
+	<summary>
+brisbane control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.broome">
+	<summary>
+broome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.darwin">
+	<summary>
+darwin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.cairns">
+	<summary>
+cairns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.hobart">
+	<summary>
+hobart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.melbourne">
+	<summary>
+melbourne control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.perth">
+	<summary>
+perth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.sydney">
+	<summary>
+sydney control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.auckland">
+	<summary>
+auckland control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.christchurch">
+	<summary>
+christchurch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.denver">
+	<summary>
+denver control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.las_vegas">
+	<summary>
+las_vegas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.los_angeles">
+	<summary>
+los_angeles control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.san_francisco">
+	<summary>
+san_francisco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.waygi_winya_reloc_list.RelocList">
+	<summary>
+RelocList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.pageForm">
+	<summary>
+pageForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.hasErrors">
+	<summary>
+hasErrors control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.strName">
+	<summary>
+strName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.ReqName">
+	<summary>
+ReqName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.strEmail">
+	<summary>
+strEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.ValEmail">
+	<summary>
+ValEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.strAddress">
+	<summary>
+strAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.strCity">
+	<summary>
+strCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.strState">
+	<summary>
+strState control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.strPost">
+	<summary>
+strPost control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.strCountry">
+	<summary>
+strCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.strPhone">
+	<summary>
+strPhone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.strEnquiry">
+	<summary>
+strEnquiry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.ccJoin">
+	<summary>
+ccJoin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.txtCheck">
+	<summary>
+txtCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.lblCap">
+	<summary>
+lblCap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.lang">
+	<summary>
+lang control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.submit_btn">
+	<summary>
+submit_btn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.contact_form_de.valsummary">
+	<summary>
+valsummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_list.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_list.entries_filter_wrapper">
+	<summary>
+entries_filter_wrapper control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_list.filterHappy">
+	<summary>
+filterHappy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_list.filterComp">
+	<summary>
+filterComp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_list.stories">
+	<summary>
+stories control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_list.lblStories">
+	<summary>
+lblStories control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_list.pagination">
+	<summary>
+pagination control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_list.lnkPrev">
+	<summary>
+lnkPrev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_list.pageLinks">
+	<summary>
+pageLinks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.happycampers_list.lnkNext">
+	<summary>
+lnkNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.specials_list.specialsList">
+	<summary>
+specialsList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.pageForm">
+	<summary>
+pageForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.strFirstName">
+	<summary>
+strFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.CustomValidator1">
+	<summary>
+CustomValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.ReqName">
+	<summary>
+ReqName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.strLastName">
+	<summary>
+strLastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.CustomValidator3">
+	<summary>
+CustomValidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.strClientEmail">
+	<summary>
+strClientEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.CustomValidator2">
+	<summary>
+CustomValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.RegExpValEmail">
+	<summary>
+RegExpValEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.ReqEmail">
+	<summary>
+ReqEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.strClientEmail2">
+	<summary>
+strClientEmail2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.CustomValidator4">
+	<summary>
+CustomValidator4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.RegularExpressionValidator1">
+	<summary>
+RegularExpressionValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.RequiredFieldValidator3">
+	<summary>
+RequiredFieldValidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.Age">
+	<summary>
+Age control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.ReqAge">
+	<summary>
+ReqAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.strLocation">
+	<summary>
+strLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.ReqLocation">
+	<summary>
+ReqLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.strClientContact">
+	<summary>
+strClientContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.strClientAddress">
+	<summary>
+strClientAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.strClientCity">
+	<summary>
+strClientCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.strClientState">
+	<summary>
+strClientState control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.strClientPost">
+	<summary>
+strClientPost control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.ReqPostcode">
+	<summary>
+ReqPostcode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.strClientCountry">
+	<summary>
+strClientCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.ReqCountry">
+	<summary>
+ReqCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.TestimonialState">
+	<summary>
+TestimonialState control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.strTestiTitle">
+	<summary>
+strTestiTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.strTestiMedia">
+	<summary>
+strTestiMedia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.strTestiDesc">
+	<summary>
+strTestiDesc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.TestimonialImagesState">
+	<summary>
+TestimonialImagesState control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.ImgDesc1">
+	<summary>
+ImgDesc1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.ImgDesc2">
+	<summary>
+ImgDesc2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.ImgDesc3">
+	<summary>
+ImgDesc3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.ImgDesc4">
+	<summary>
+ImgDesc4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.ImgDesc5">
+	<summary>
+ImgDesc5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.TestimonialVideosState">
+	<summary>
+TestimonialVideosState control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.txtVideoURL">
+	<summary>
+txtVideoURL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.txtVideoTitle">
+	<summary>
+txtVideoTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.txtVideoDesc">
+	<summary>
+txtVideoDesc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.txtCheck">
+	<summary>
+txtCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.lblCap">
+	<summary>
+lblCap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.chkTerms">
+	<summary>
+chkTerms control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.CustomValidator5">
+	<summary>
+CustomValidator5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.checkEntry">
+	<summary>
+checkEntry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.btn_submit">
+	<summary>
+btn_submit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.valsummary">
+	<summary>
+valsummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.UnloadConfirmer1">
+	<summary>
+UnloadConfirmer1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.ultimate_comp_submit.inlineProgressBar">
+	<summary>
+inlineProgressBar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.location_btns">
+	<summary>
+location_btns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.adelaide">
+	<summary>
+adelaide control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.alice_springs">
+	<summary>
+alice_springs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.brisbane">
+	<summary>
+brisbane control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.broome">
+	<summary>
+broome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.darwin">
+	<summary>
+darwin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.cairns">
+	<summary>
+cairns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.hobart">
+	<summary>
+hobart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.melbourne">
+	<summary>
+melbourne control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.perth">
+	<summary>
+perth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.sydney">
+	<summary>
+sydney control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.auckland">
+	<summary>
+auckland control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.christchurch">
+	<summary>
+christchurch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.denver">
+	<summary>
+denver control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.las_vegas">
+	<summary>
+las_vegas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.los_angeles">
+	<summary>
+los_angeles control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.san_francisco">
+	<summary>
+san_francisco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.aussie_reloc_list.RelocList">
+	<summary>
+RelocList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.location_btns">
+	<summary>
+location_btns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.adelaide">
+	<summary>
+adelaide control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.alice_springs">
+	<summary>
+alice_springs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.brisbane">
+	<summary>
+brisbane control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.broome">
+	<summary>
+broome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.darwin">
+	<summary>
+darwin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.cairns">
+	<summary>
+cairns control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.hobart">
+	<summary>
+hobart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.melbourne">
+	<summary>
+melbourne control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.perth">
+	<summary>
+perth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.sydney">
+	<summary>
+sydney control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.auckland">
+	<summary>
+auckland control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.christchurch">
+	<summary>
+christchurch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.denver">
+	<summary>
+denver control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.las_vegas">
+	<summary>
+las_vegas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.los_angeles">
+	<summary>
+los_angeles control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.san_francisco">
+	<summary>
+san_francisco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.rel2go_reloc_list.RelocList">
+	<summary>
+RelocList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.hreflang.lblHreflangTxt">
+	<summary>
+lblHreflangTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.special_agent_list.specialsList">
+	<summary>
+specialsList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.special_agent_list.specialsTitle">
+	<summary>
+specialsTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.special_agent_list.specialsListDescription">
+	<summary>
+specialsListDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.special_agent_list.specialListHolder">
+	<summary>
+specialListHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.special_agent_list.specialsSlider">
+	<summary>
+specialsSlider control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.special_agent_list.carouselIndicators">
+	<summary>
+carouselIndicators control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.special_agent_list.specialsBannerHolder">
+	<summary>
+specialsBannerHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.special_agent_list.specialsTileList">
+	<summary>
+specialsTileList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.special_agent_list.specialsTileTitle">
+	<summary>
+specialsTileTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.special_agent_list.specialsTileListHolder">
+	<summary>
+specialsTileListHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:_commonFiles.terms_list.lblTerms">
+	<summary>
+lblTerms control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

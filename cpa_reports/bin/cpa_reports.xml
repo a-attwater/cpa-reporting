@@ -1,0 +1,2206 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+cpa_reports
+</name>
+</assembly>
+<members>
+<member name="F:cpa_reports.exceptions_countries.btnCheckExceptions">
+	<summary>
+btnCheckExceptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_countries.GVCountries">
+	<summary>
+GVCountries control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_counts.btnCheckWksData">
+	<summary>
+btnCheckWksData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_counts.LVthisWeeksData">
+	<summary>
+LVthisWeeksData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_counts.btnGetWklyDataCounts">
+	<summary>
+btnGetWklyDataCounts control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_counts.LVCounts">
+	<summary>
+LVCounts control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_add.ddlCountry">
+	<summary>
+ddlCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_add.cbContainerBrands">
+	<summary>
+cbContainerBrands control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_add.cbContainerPULocations">
+	<summary>
+cbContainerPULocations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_add.cbContainerRLocations">
+	<summary>
+cbContainerRLocations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_add.chBxOneWay">
+	<summary>
+chBxOneWay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_add.txtStartDate">
+	<summary>
+txtStartDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_add.txtEndDate">
+	<summary>
+txtEndDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_add.txtPriceChangeDecimal">
+	<summary>
+txtPriceChangeDecimal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_add.txtPriceChangeDecimalValidator">
+	<summary>
+txtPriceChangeDecimalValidator control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_add.txtPriceChangeDecimalValidator2">
+	<summary>
+txtPriceChangeDecimalValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_add.txtPriceChangePercent">
+	<summary>
+txtPriceChangePercent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_add.txtPriceChangePercentValidator">
+	<summary>
+txtPriceChangePercentValidator control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_add.txtPriceChangePercentValidator2">
+	<summary>
+txtPriceChangePercentValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_add.ddlCurrency">
+	<summary>
+ddlCurrency control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_add.txtPriceChangeNote">
+	<summary>
+txtPriceChangeNote control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_add.btnAddException">
+	<summary>
+btnAddException control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.snapshot_test.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_edit.backLink">
+	<summary>
+backLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_edit.s1">
+	<summary>
+s1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_edit.txtUsername">
+	<summary>
+txtUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_edit.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_edit.txtName">
+	<summary>
+txtName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_edit.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_edit.chkAdmin">
+	<summary>
+chkAdmin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_edit.chkActive">
+	<summary>
+chkActive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_edit.pageHolder">
+	<summary>
+pageHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_edit.btnConfirm">
+	<summary>
+btnConfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users.s1">
+	<summary>
+s1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users.isExport">
+	<summary>
+isExport control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users.users">
+	<summary>
+users control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users.sqlsource1">
+	<summary>
+sqlsource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.login.message">
+	<summary>
+message control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.login.username">
+	<summary>
+username control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.login.usernameCheck">
+	<summary>
+usernameCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.login.password">
+	<summary>
+password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.login.passwordCheck">
+	<summary>
+passwordCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.login.btnlogin">
+	<summary>
+btnlogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports._404.s1">
+	<summary>
+s1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_currencies.btnCheckExceptions">
+	<summary>
+btnCheckExceptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_currencies.GVCurrencies">
+	<summary>
+GVCurrencies control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_v2.lblDataCount">
+	<summary>
+lblDataCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_v2.hasData">
+	<summary>
+hasData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_v2.btnSetFilter">
+	<summary>
+btnSetFilter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_v2.ddlFinancialWeek">
+	<summary>
+ddlFinancialWeek control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_v2.ddlPriceExceptions">
+	<summary>
+ddlPriceExceptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_v2.ddlLicenceCountry">
+	<summary>
+ddlLicenceCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_v2.ddlCountry">
+	<summary>
+ddlCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_v2.ddlBrand">
+	<summary>
+ddlBrand control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_v2.ddlVehicleType">
+	<summary>
+ddlVehicleType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_v2.ddlVehicleBerth">
+	<summary>
+ddlVehicleBerth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_v2.ddlVehicleName">
+	<summary>
+ddlVehicleName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_v2.ddlPickupLocation">
+	<summary>
+ddlPickupLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_v2.ddlReturnLocation">
+	<summary>
+ddlReturnLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports._500.s1">
+	<summary>
+s1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.websites.btnCheckExceptions">
+	<summary>
+btnCheckExceptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.websites.GVWebsites">
+	<summary>
+GVWebsites control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.userMenu.pageHolder">
+	<summary>
+pageHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.userMenu.selectedPage">
+	<summary>
+selectedPage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_add.backLink">
+	<summary>
+backLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_add.s1">
+	<summary>
+s1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_add.txtUsername">
+	<summary>
+txtUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_add.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_add.txtName">
+	<summary>
+txtName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_add.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_add.chkAdmin">
+	<summary>
+chkAdmin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_add.chkActive">
+	<summary>
+chkActive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_add.pageHolder">
+	<summary>
+pageHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_users_add.btnConfirm">
+	<summary>
+btnConfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions.lblWebsiteExceptionCount">
+	<summary>
+lblWebsiteExceptionCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions.lblCountryExceptionCount">
+	<summary>
+lblCountryExceptionCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions.lblBrandExceptionCount">
+	<summary>
+lblBrandExceptionCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions.lblLocationExceptionCount">
+	<summary>
+lblLocationExceptionCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions.lblVehicleExceptionCount">
+	<summary>
+lblVehicleExceptionCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions.lblCurrencyExceptionCount">
+	<summary>
+lblCurrencyExceptionCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.accept_data.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.accept_data.lblXML">
+	<summary>
+lblXML control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_duplicates.lblDateRangeChecked">
+	<summary>
+lblDateRangeChecked control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_duplicates.lblDateCountChecked">
+	<summary>
+lblDateCountChecked control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_duplicates.lblDuplicateCount">
+	<summary>
+lblDuplicateCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_duplicates.btnDeleteDuplicates">
+	<summary>
+btnDeleteDuplicates control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_duplicates.lblDataAddedCount">
+	<summary>
+lblDataAddedCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.lblDataCount">
+	<summary>
+lblDataCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.title1">
+	<summary>
+title1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.title2">
+	<summary>
+title2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.title3">
+	<summary>
+title3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.title4">
+	<summary>
+title4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.title5">
+	<summary>
+title5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.title6">
+	<summary>
+title6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.title7">
+	<summary>
+title7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.title8">
+	<summary>
+title8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.title9">
+	<summary>
+title9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.title10">
+	<summary>
+title10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.hasData">
+	<summary>
+hasData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.btnSetFilter">
+	<summary>
+btnSetFilter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.ddlFinancialWeek">
+	<summary>
+ddlFinancialWeek control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.ddlPriceExceptions">
+	<summary>
+ddlPriceExceptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.ddlLicenceCountry">
+	<summary>
+ddlLicenceCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.ddlCountry">
+	<summary>
+ddlCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.ddlBrand">
+	<summary>
+ddlBrand control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.ddlVehicleType">
+	<summary>
+ddlVehicleType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.ddlVehicleBerth">
+	<summary>
+ddlVehicleBerth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.ddlVehicleName">
+	<summary>
+ddlVehicleName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.ddlPickupLocation">
+	<summary>
+ddlPickupLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.test.ddlReturnLocation">
+	<summary>
+ddlReturnLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.brands.btnCheckExceptions">
+	<summary>
+btnCheckExceptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.brands.GVBrands">
+	<summary>
+GVBrands control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports._error.s1">
+	<summary>
+s1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_price_change.btnExport">
+	<summary>
+btnExport control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_price_change.btnSetFilter">
+	<summary>
+btnSetFilter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_price_change.alertIncorrectFilters">
+	<summary>
+alertIncorrectFilters control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_price_change.ddlFinancialWeek">
+	<summary>
+ddlFinancialWeek control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_price_change.ddlPriceExceptions">
+	<summary>
+ddlPriceExceptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_price_change.ddlShowSmallest">
+	<summary>
+ddlShowSmallest control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_price_change.ddlLicenceCountry">
+	<summary>
+ddlLicenceCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_price_change.ddlCountry">
+	<summary>
+ddlCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_price_change.ddlVehicleName">
+	<summary>
+ddlVehicleName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_price_change.ddlPickupLocation">
+	<summary>
+ddlPickupLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_price_change.ddlReturnLocation">
+	<summary>
+ddlReturnLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_price_change.lblDataCount">
+	<summary>
+lblDataCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_price_change.LVData">
+	<summary>
+LVData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.lblDataCount">
+	<summary>
+lblDataCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.hasData">
+	<summary>
+hasData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.currentGraphCount">
+	<summary>
+currentGraphCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.btnSetFilter">
+	<summary>
+btnSetFilter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.alertIncorrectFilters">
+	<summary>
+alertIncorrectFilters control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.ddlFinancialWeek">
+	<summary>
+ddlFinancialWeek control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.ddlPriceExceptions">
+	<summary>
+ddlPriceExceptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.cblTravelDateRange">
+	<summary>
+cblTravelDateRange control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.cblTravelDateRangeCheck">
+	<summary>
+cblTravelDateRangeCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.cblMainWebsite">
+	<summary>
+cblMainWebsite control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.cblMainWebsiteCheck">
+	<summary>
+cblMainWebsiteCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.ddlLicenceCountry">
+	<summary>
+ddlLicenceCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.ddlCountry">
+	<summary>
+ddlCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.ddlBrand">
+	<summary>
+ddlBrand control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.ddlVehicleName">
+	<summary>
+ddlVehicleName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.ddlPickupLocation">
+	<summary>
+ddlPickupLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.ddlReturnLocation">
+	<summary>
+ddlReturnLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.btnADDlocCombo">
+	<summary>
+btnADDlocCombo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.chkLocations">
+	<summary>
+chkLocations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.locWarning">
+	<summary>
+locWarning control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_over_time_and_data_sets.GVlocCombos">
+	<summary>
+GVlocCombos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_pages_add.backLink">
+	<summary>
+backLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_pages_add.s1">
+	<summary>
+s1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_pages_add.ddlPages">
+	<summary>
+ddlPages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_pages_add.txtSection">
+	<summary>
+txtSection control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_pages_add.subHolder">
+	<summary>
+subHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_pages_add.btnConfirm">
+	<summary>
+btnConfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_locations.btnCheckExceptions">
+	<summary>
+btnCheckExceptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_locations.GVLocations">
+	<summary>
+GVLocations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:cpa_reports.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:cpa_reports.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:cpa_reports.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:cpa_reports.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:cpa_reports.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:cpa_reports.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:cpa_reports.comparison.btnExport">
+	<summary>
+btnExport control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.btnSetFilter">
+	<summary>
+btnSetFilter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.alertIncorrectFilters">
+	<summary>
+alertIncorrectFilters control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.ddlFinancialWeek">
+	<summary>
+ddlFinancialWeek control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.ddlPriceExceptions">
+	<summary>
+ddlPriceExceptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.cblTravelDateRange">
+	<summary>
+cblTravelDateRange control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.cblTravelDateRangeCheck">
+	<summary>
+cblTravelDateRangeCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.cblMainWebsite">
+	<summary>
+cblMainWebsite control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.cblMainWebsiteCheck">
+	<summary>
+cblMainWebsiteCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.ddlLicenceCountry">
+	<summary>
+ddlLicenceCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.ddlCountry">
+	<summary>
+ddlCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.ddlBrand">
+	<summary>
+ddlBrand control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.ddlVehicleType">
+	<summary>
+ddlVehicleType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.ddlVehicleBerth">
+	<summary>
+ddlVehicleBerth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.ddlVehicleName">
+	<summary>
+ddlVehicleName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.ddlPickupLocation">
+	<summary>
+ddlPickupLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.ddlReturnLocation">
+	<summary>
+ddlReturnLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.btnADDlocCombo">
+	<summary>
+btnADDlocCombo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.chkLocations">
+	<summary>
+chkLocations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.locWarning">
+	<summary>
+locWarning control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.GVlocCombos">
+	<summary>
+GVlocCombos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.lblDataCount">
+	<summary>
+lblDataCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison.LVData">
+	<summary>
+LVData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.btnExport">
+	<summary>
+btnExport control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.btnSetFilter">
+	<summary>
+btnSetFilter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.alertIncorrectFilters">
+	<summary>
+alertIncorrectFilters control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.ddlFinancialWeek">
+	<summary>
+ddlFinancialWeek control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.ddlPriceExceptions">
+	<summary>
+ddlPriceExceptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.cblTravelDateRange">
+	<summary>
+cblTravelDateRange control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.cblTravelDateRangeCheck">
+	<summary>
+cblTravelDateRangeCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.cblMainWebsite">
+	<summary>
+cblMainWebsite control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.cblMainWebsiteCheck">
+	<summary>
+cblMainWebsiteCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.ddlLicenceCountry">
+	<summary>
+ddlLicenceCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.ddlCountry">
+	<summary>
+ddlCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.ddlVehicleName">
+	<summary>
+ddlVehicleName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.ddlPickupLocation">
+	<summary>
+ddlPickupLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.ddlReturnLocation">
+	<summary>
+ddlReturnLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.btnADDlocCombo">
+	<summary>
+btnADDlocCombo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.chkLocations">
+	<summary>
+chkLocations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.locWarning">
+	<summary>
+locWarning control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.GVlocCombos">
+	<summary>
+GVlocCombos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.lblDataCount">
+	<summary>
+lblDataCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_brands.LVData">
+	<summary>
+LVData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:cpa_reports.GridViewExportUtil.Export(System.String,System.Web.UI.WebControls.GridView)">
+	<summary>
+	</summary>
+	<param name="fileName"></param>
+	<param name="gv"></param>
+</member><member name="M:cpa_reports.GridViewExportUtil.PrepareControlForExport(System.Web.UI.Control)">
+	<summary>
+ Replace any of the contained controls with literals
+ </summary>
+	<param name="control"></param>
+</member><member name="T:cpa_reports.GridViewExportUtil">
+	<summary>
+	</summary>
+</member><member name="F:cpa_reports.data_import.btnCheckExceptions">
+	<summary>
+btnCheckExceptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.data_import.tblExceptions">
+	<summary>
+tblExceptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.data_import.btnAcceptData">
+	<summary>
+btnAcceptData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.data_import.lblDataAddedCount">
+	<summary>
+lblDataAddedCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.data_import.lblDataDuplicateCount">
+	<summary>
+lblDataDuplicateCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.data_import.lblExceptionCountUpdated">
+	<summary>
+lblExceptionCountUpdated control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.dates.btnCheckExceptions">
+	<summary>
+btnCheckExceptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.dates.GVDates">
+	<summary>
+GVDates control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.btnSetFilter">
+	<summary>
+btnSetFilter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.alertIncorrectFilters">
+	<summary>
+alertIncorrectFilters control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.ddlFinancialWeek">
+	<summary>
+ddlFinancialWeek control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.ddlRate">
+	<summary>
+ddlRate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.ddlPercentOrPrice">
+	<summary>
+ddlPercentOrPrice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.ddlPriceExceptions">
+	<summary>
+ddlPriceExceptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.chbxApolloFamilyVehicles">
+	<summary>
+chbxApolloFamilyVehicles control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.cblTravelDateRange">
+	<summary>
+cblTravelDateRange control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.cblTravelDateRangeCheck">
+	<summary>
+cblTravelDateRangeCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.cblMainWebsite">
+	<summary>
+cblMainWebsite control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.cblMainWebsiteCheck">
+	<summary>
+cblMainWebsiteCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.ddlLicenceCountry">
+	<summary>
+ddlLicenceCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.ddlCountry">
+	<summary>
+ddlCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.ddlPickupLocation">
+	<summary>
+ddlPickupLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.ddlReturnLocation">
+	<summary>
+ddlReturnLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.btnADDlocCombo">
+	<summary>
+btnADDlocCombo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.chkLocations">
+	<summary>
+chkLocations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.locWarning">
+	<summary>
+locWarning control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.GVlocCombos">
+	<summary>
+GVlocCombos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.filterBottom">
+	<summary>
+filterBottom control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.lblDataCount">
+	<summary>
+lblDataCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.comparison_snapshot.LVData">
+	<summary>
+LVData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_pages_edit.backLink">
+	<summary>
+backLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_pages_edit.s1">
+	<summary>
+s1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_pages_edit.txtSection">
+	<summary>
+txtSection control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_pages_edit.subHolder">
+	<summary>
+subHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_pages_edit.btnConfirm">
+	<summary>
+btnConfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_list.GVPrices">
+	<summary>
+GVPrices control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_list.btnAddException">
+	<summary>
+btnAddException control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_pages.s1">
+	<summary>
+s1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_pages.isExport">
+	<summary>
+isExport control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_pages.pages">
+	<summary>
+pages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.CPA_pages.sqlsource1">
+	<summary>
+sqlsource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_vehicles.btnCheckExceptions">
+	<summary>
+btnCheckExceptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_vehicles.GVVehicles">
+	<summary>
+GVVehicles control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_vehicles.btnSetAlias">
+	<summary>
+btnSetAlias control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:cpa_reports.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:cpa_reports.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:cpa_reports.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:cpa_reports.exceptions_prices_update.ddlCountry">
+	<summary>
+ddlCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_update.cbContainerBrands">
+	<summary>
+cbContainerBrands control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_update.cbContainerPULocations">
+	<summary>
+cbContainerPULocations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_update.cbContainerRLocations">
+	<summary>
+cbContainerRLocations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_update.chBxOneWay">
+	<summary>
+chBxOneWay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_update.txtStartDate">
+	<summary>
+txtStartDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_update.txtEndDate">
+	<summary>
+txtEndDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_update.txtPriceChangeDecimal">
+	<summary>
+txtPriceChangeDecimal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_update.txtPriceChangeDecimalValidator">
+	<summary>
+txtPriceChangeDecimalValidator control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_update.txtPriceChangeDecimalValidator2">
+	<summary>
+txtPriceChangeDecimalValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_update.txtPriceChangePercent">
+	<summary>
+txtPriceChangePercent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_update.txtPriceChangePercentValidator">
+	<summary>
+txtPriceChangePercentValidator control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_update.txtPriceChangePercentValidator2">
+	<summary>
+txtPriceChangePercentValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_update.ddlCurrency">
+	<summary>
+ddlCurrency control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_update.txtPriceChangeNote">
+	<summary>
+txtPriceChangeNote control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.exceptions_prices_update.btnUpdateException">
+	<summary>
+btnUpdateException control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.Report.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.Report.pageBody">
+	<summary>
+pageBody control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.Report.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.Report.topnavigation">
+	<summary>
+topnavigation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.Report.btnLogout">
+	<summary>
+btnLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.Report.mainmenu_1">
+	<summary>
+mainmenu_1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.Report.sideContent">
+	<summary>
+sideContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.Report.mainContent">
+	<summary>
+mainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.import_exchange_rates.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:cpa_reports.import_exchange_rates.lblXML">
+	<summary>
+lblXML control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
